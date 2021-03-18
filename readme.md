@@ -1,5 +1,6 @@
 # Leap Year Warmup Exercise
 
+<small style="color: gray">This was warmup work from <span title="General Assembly">GA</span></small>
 
 Write a function that will take any given year and return whether it is a leap year or not.
 Remember that a leap year is:
